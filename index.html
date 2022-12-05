@@ -199,8 +199,8 @@
                             ameliorating
                             the issues by further experimentations.</p>
 
-                        <div class="subheading mb-3">Status: Ongoing Research Project ( Expected completion: December
-                            2022 )</div>
+                        <div class="subheading mb-3">Status: Ongoing Research Project (Expected completion: January
+                            2023)</div>
                     </div>
                 </div>
                 <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
@@ -210,15 +210,17 @@
                         <p>The purpose of this study is to use Deep Learning to categorize different SARS-CoV-2 variants
                             based on their primary protein sequences. With the help of a pre-trained ProtTrans model, we
                             first created embeddings for the whole protein sequence. We have utilized LGBM, XGBOOST, and
-                            a shallow ANN to train variant classifiers using the embeddings. For our main protein
-                            sequence dataset, we additionally created mutations by enhancing Tempel(a time-series-based
-                            model to categorize influenza mutations) with a base Transformer encoder. When compared to
-                            the model, our predictor is 3% more accurate at predicting mutations. Currently, we are
-                            testing our classifier on the mutated sequences and validating our approach and working on
-                            the write-up.
+                            a shallow ANN to train variant classifiers using the embeddings. We trained a mutation
+                            predictor by modifying Tempel(a time-series-based model to classify influenza mutations) for
+                            our primary protein sequences by incorporating a base Transformer encoder in the codebase
+                            beating the baseline predictors
+                            in terms of MCC and F1-Score. We used the predictor to generate mutations for further
+                            analysis. Currently, we are
+                            testing our classifier on the mutated sequences and validating our approach and the
+                            write-up.
                         </p>
 
-                        <div class="subheading mb-3">Status: Ongoing Research Project (Expected Completion: January
+                        <div class="subheading mb-3">Status: Ongoing Research Project (Expected Completion: December
                             2022)
                         </div>
                     </div>
