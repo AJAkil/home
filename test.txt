@@ -17,8 +17,6 @@
     <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
     <!-- Core theme CSS (includes Bootstrap)-->
     <link href="css/styles.css" rel="stylesheet" />
-
-    
 </head>
 
 <body id="page-top">
@@ -35,9 +33,7 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav">
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
-                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#recent">Recent News</a></li>
-                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#publications">Publications</a></li>
-                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#acservices">Academic Services</a></li>
+                <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#research">Research</a></li>
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#teaching">Teaching</a></li>
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#work">Work Experience</a></li>
                 <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#eca">Activities</a></li>
@@ -64,43 +60,27 @@
 
                     .Prior to this, I received my Bachelors (B.sc) from Department of Computer Science and Engineering
                     with Honors from
-                    <a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology.</a> During my
+                    <a href="https://cse.buet.ac.bd/">Bangladesh University of Engineering and Technology. During my
                         bachelors, I worked in <a href="https://csebuetnlp.github.io/">CSE BUET NLP LAB</a> under
                         the supervision of Professor <a href="https://rifatshahriyar.github.io/">Rifat Shahriyar</a>.
 
                         <br>
                         <br>
-                        My current research is at the intersection of malware and software security and Generative AI,
-                        with a strong focus on LLM.
-                        I am intrigued by the challenge of combining classical software security and LLM and generative
-                        AI. Besides, I am exploring about LLM security and defense and also ability of code LM to reason
-                        and
+                        My current research is at the intersection of malware and software security and Generative AI, with a strong focus on LLM. 
+                        I am intrigued by the challenge of combining classical software security and LLM and generative AI. Besides, I am exploring about LLM security and defense and also ability of code LM to reason and 
                         work with systems and low level languages. My research interests can be broadly categorized as:
                         <div class="lead-mb-5">
-                            <ul class="list-unstyled">
-                                <li class="mb-2">
-                                    <i class="fa-solid fa-angles-right"></i>
-                                    MALWARE AND ADVERSARIAL MACHINE LEARNING
-                                </li>
-                                <li class="mb-2">
-                                    <i class="fa-solid fa-angles-right"></i>
-                                    APPLICATION OF LLM, CODE LM AND GENERATIVE AI FOR SECURITY
-                                </li>
-                                <li class="mb-2">
-                                    <i class="fa-solid fa-angles-right"></i>
-                                    SECURITY OF LLM WITH A FOCUS ON JAILBREAKING LLM
-                                </li>
-                                <li class="mb-2">
-                                    <i class="fa-solid fa-angles-right"></i>
-                                    REASONING ABILITY OF CODE LM AND GENERAL APPLICATION TO SOFTWARE ENGINEERING
-                                </li>
+                            <ul>
+                                <li>MALWARE AND ADVERSARIAL MACHINE LEARNING</li>
+                                <li>APPLICATION OF LLM, CODE LM AND GENERATIVE AI FOR SECURITY</li>
+                                <li>SECURITY OF LLM WITH A FOCUS ON JAILBREAKING LLM</li>
+                                <li>REASONING ABILITY OF CODE LM AND GENERAL APPLICATION TO SOFTWARE ENGINEERING</li>
                             </ul>
                         </div>
 
                 </p>
 
                 <p class="lead mb-5">
-                    <i class="fa-solid fa-hand-point-right text-secondary"></i>
                     You can find more information in my
                     <a href="https://drive.google.com/file/d/1X6JWOAUheUKeJZOstzjqnYxzBFnJs5Ev/view?usp=drive_link"
                         download>CV</a>
@@ -129,66 +109,6 @@
         </section>
 
         <hr class="m-0" />
-        <!-- Recent News-->
-        <section class="resume-section" id="recent">
-
-            <div class="resume-section-content">
-
-                <h2 class="mb-5">Recent News</h2>
-                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                    <div class="flex-grow-1">
-                        <div class="lead-mb-5">
-                            <ul class="list-unstyled">
-                                <li class="mb-2">
-                                    <i class="fa-solid fa-school text-primary"></i>
-                                    <strong>[April 2024]</strong> - I have Joined Cyber2Lab in Purdue University under
-                                    Professor <strong>Elisa Bertino</strong>
-                                </li>
-                                <li class="mb-2">
-                                    <i class="fa-solid fa-scroll text-warning"></i>
-                                    <strong>[May 2024]</strong> - Our work <strong> PRIEST </strong> have been
-                                    accepted in <strong> Briefings in Bioinformatics! </strong>
-                                </li>
-                                <li class="mb-2">
-                                    <i class="fa-solid fa-school text-primary"></i>
-                                    <strong>[August 2023]</strong> - Joined Purdue University as a PhD student in the
-                                    Department of Computer Science
-                                </li>
-                                <li class="mb-2">
-                                    <i class="fa-solid fa-scroll text-warning"></i>
-                                    <strong>[November 2022]</strong> - Our work <strong>BanglaParaphrase</strong> have
-                                    been accepted in <strong>IJCNLP-AACL 2022! </strong>
-                                </li>
-                                <li class="mb-2">
-                                    <i class="fas fa-chalkboard-teacher text-primary"></i>
-                                    <strong>[July 2022]</strong> - Joined as a Lecturer in the Department of Computer
-                                    Science and Engineering, United International University
-                                </li>
-                                <li class="mb-2">
-                                    <i class="fa-solid fa-scroll text-warning"></i>
-                                    <strong>[June 2022]</strong> - Our work <strong>CORONOSIS</strong> have been
-                                    published in <strong>ACM COMPASS 2022!</strong>
-                                </li>
-                                <li class="mb-2">
-                                    <i class="fas fa-graduation-cap text-secondary"></i>
-                                    <strong>[May 2022]</strong> - Graduated from Bangladesh University of Engineering
-                                    and Technology with a B.Sc in Computer Science and Engineering
-                                </li>
-                                <li class="mb-2">
-                                    <i class="fas fa-briefcase text-success"></i>
-                                    <strong>[July 2021]</strong> - Joined as an Intern in Intelligent Machines Limited
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-
-                <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-
-                <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
-        </section>
-
-
         <hr class="m-0" />
         <!-- Publications -->
         <section class="resume-section" id="publications">
@@ -237,98 +157,176 @@
             </div>
         </section>
 
+
         <hr class="m-0" />
-        <!-- Academic Services -->
-        <section class="resume-section" id="acservices">
+        <!-- Experience-->
+        <section class="resume-section" id="research">
             <div class="resume-section-content">
-                <h2 class="mb-5">Academic Services</h2>
+                <h2 class="mb-5">Research</h2>
                 <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                     <div class="flex-grow-1">
-                        <div class="lead-mb-5">
+                        <h3 class="mb-0">BanglaParaphrase: A synthtic Bangla Paraphrase dataset
+                            ensuring rich Diversity
+                            and Semantics</h3>
+                        <div class="subheading mb-3">CO-Authors: Najrin Sultana, Abhik Bhattacharya,
+                            Dr. Rifat Shahriyar
+                        </div>
+                        <p> This research project was part of my undergraduate thesis where me and
+                            my thesis partner <a
+                                href="https://bd.linkedin.com/in/najrin-sultana?trk=public_profile_browsemap">Najrin
+                                Sultana</a>
+                            worked under <a href="https://rifatshahriyar.github.io/">Dr. Rifat
+                                Shahriyar </a> and
+                            attempted to solve two important problems
+                            of Bangla Natural Language Processing namely: Paraphrasing and Readable
+                            Text Simplification.
+                            We successfully curated a synthetic paraphrase dataset ensuring both
+                            diversity and semantics
+                            by designing a novel dataset filtering pipeline, two of the
+                            most important criteria for a high-quality paraphrase, and developed a
+                            transformer-based
+                            paraphrase
+                            generating model and presented rigorous analysis with existing Bangla
+                            Paraphrase datasets.
+                        </p>
 
-                            <ul class="list-unstyled">
-                                <li class="mb-2">
-                                    <i class="fa-solid fa-code"></i>
-                                    <strong>Artifact Evaluation Committee</strong>
-
-                                    <ul>
-                                        <li class="mb-2">
-
-                                            Annual Computer Security Application <strong>(ACSAC) 2024</strong>
-                                        </li>
-                                    </ul>
-
-
-                                </li>
-
-                            </ul>
-
-                            <ul class="list-unstyled">
-                                <li>
-                                    <i class="fa-solid fa-magnifying-glass text-primary"></i>
-                                    <strong>Sub-Reviewer</strong>
-                                    <ul>
-                                        <li class="mb-2">
-
-                                            <strong>Conference</strong>
-
-                                            <ol>
-                                                <li>
-                                                    Network and Distributed System Security <strong>(NDSS) 2025</strong>
-                                                </li>
-
-                                                <li>
-                                                    Annual Computer Security Application <strong>(ACSAC) 2024</strong>
-                                                </li>
-
-                                                <li>
-                                                    International Symposium on Research in Attacks, Intrusions, and
-                                                    Defenses
-                                                    <strong>(RAID) 2024 </strong>
-                                                </li>
-                                            </ol>
-                                        </li>
-
-                                        <li class="mb-2">
-                                            <strong>Journal</strong>
-
-                                            <ol>
-                                                <li>
-                                                    IEEE ACM Transactions on Neworking
-                                                </li>
-                                            </ol>
-                                        </li>
-                                    </ul>
-
-                            </ul>
+                        <div class="subheading mb-3">Status: Published in <a
+                                href="https://aclanthology.org/2022.aacl-short.33/">AACL-ICJNLP-2022</a>
                         </div>
                     </div>
                 </div>
+
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">CORONOSIS: Corona Prognosis via a Global Lens to Enable
+                            Efficient Policy-making
+                            Both at Global and Local Levels</h3>
+                        <div class="subheading mb-3">CO-Authors: Ishrat Jahan Eliza,Md Hasibul
+                            Husain Hisham,
+                            Mohammad Nuwaisir Rahman,
+                            Abir Mohammad Turza,
+                            Fahim Morshed,
+                            Nazmus Sakib,
+                            Sriram Chellappan, A. B. M. Alim Al Islam</div>
+                        <p> We developed an integrated dashboard as a one-stop decision support
+                            system for the covid-19
+                            pandemic. We performed several predictions (next day predictions, when
+                            would we keep corona
+                            under control, country-wise affected and dead, etc) using customised
+                            epidemiology models.
+                            These analyses were demonstrated through interactive charts, graphs, and
+                            maps. We also
+                            explored the correlations between disease spread and diverse
+                            socio-economic and
+                            environmental factors. Furthermore, we presented how the outcomes of our
+                            work
+                            can facilitate both contemporary and future policy-making. My personally
+                            contribution to the
+                            project was by working on the Back-End part of the dashboard,
+                            integrating database and API
+                            endpoints, and ensuring security as well as optimization.
+                        </p>
+
+                        <div class="subheading mb-3">Status: Published in <a
+                                href="https://dl.acm.org/doi/abs/10.1145/3530190.3534831">ACM-COMPASS-2022</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">A Bimodal analysis on sentiment changes in Twitter during
+                            the COVID-19 Pandemic
+                        </h3>
+                        <!-- <div class="subheading mb-3">CO-Authors: Ishrat Jahan Eliza,Md Hasibul Husain Hisham,
+                            Mohammad Nuwaisir Rahman,
+                            Abir Mohammad Turza,
+                            Fahim Morshed,
+                            Nazmus Sakib,
+                            Sriram Chellappan, A. B. M. Alim Al Islam</div> -->
+                        <p> We investigated changes in human sentiment over two years on Twitter
+                            during the COVID-19
+                            pandemic by incorporating bimodal analyses of tweets and images.
+                            We Collected and annotated tweets over the internet for the timeline of
+                            2019-2020 and
+                            performed exploratory analysis on the data that portrays the change in
+                            sentiment in social
+                            media for a large timeline during the pandemic.
+                            We also proposed a heuristic that combines rule-based and automated text
+                            sentiment
+                            classification and our work presents a big picture over the change of
+                            sentiment.
+                        </p>
+
+                        <div class="subheading mb-3">Status: Under Review in <a
+                                href="https://chi2023.acm.org/">CHI-2023</a></div>
+                    </div>
+                </div>
+
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">Unsupervised Bangla Text Simplification</h3>
+                        <div class="subheading mb-3">CO-Authors: Najrin Sultana, Abhik Bhattacharya,
+                            Dr. Rifat
+                            Shahriyar, </div>
+                        <p> This research project was also a part of my undergraduate thesis where
+                            we worked on Bangla
+                            Text Simplification without the need of
+                            a parallel corpus. We framed the problem of text Simplification as a
+                            style transfer problem
+                            and leveraging the parphrase generating model we developed as part
+                            of our thesis, we are attempting to simplify complex Bangla texts. As of
+                            now, The results
+                            look promising and we have identified the potential bottlenecks of the
+                            pipeline. We are
+                            ameliorating
+                            the issues by further experimentations.</p>
+
+                        <div class="subheading mb-3">Status: Ongoing Research Project (Expected
+                            completion: January
+                            2023)</div>
+                    </div>
+                </div>
+                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                    <div class="flex-grow-1">
+                        <h3 class="mb-0">Classification of variants of Corona Virus from protein
+                            sequences</h3>
+                        <!-- <div class="subheading mb-3">CO-Authors: Nazrin Sultana, Abhik Bhattacharya, Dr. Rifat Shahriyar</div> -->
+                        <p>The purpose of this study is to use Deep Learning to categorize different
+                            SARS-CoV-2 variants
+                            based on their primary protein sequences. With the help of a pre-trained
+                            ProtTrans model, we
+                            first created embeddings for the whole protein sequence. We have
+                            utilized LGBM, XGBOOST, and
+                            a shallow ANN to train variant classifiers using the embeddings. We
+                            trained a mutation
+                            predictor by modifying Tempel(a time-series-based model to classify
+                            influenza mutations) for
+                            our primary protein sequences by incorporating a base Transformer
+                            encoder in the codebase
+                            beating the baseline predictors
+                            in terms of MCC and F1-Score. We used the predictor to generate
+                            mutations for further
+                            analysis. Currently, we are
+                            testing our classifier on the mutated sequences and validating our
+                            approach and the
+                            write-up.
+                        </p>
+
+                        <div class="subheading mb-3">Status: Ongoing Research Project (Expected
+                            Completion: January
+                            2023)
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </section>
-
         <hr class="m-0" />
         <!-- Education-->
         <section class="resume-section" id="teaching">
             <div class="resume-section-content">
-
-                <h2 class="mb-5">Purdue University</h2>
-                I have worked as Graduate Teaching Assistant for the following courses during Fall 2023, Spring 2023 and
-                Fall 2024:
-                <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                    <div class="lead-mb-5">
-                        <ul>
-                            <li>
-                                CS 18000: Problem Solving And Object-Oriented Programming
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="flex-shrink-0"><span class="text-primary">August 2023 - Present</span>
-                    </div>
-                </div>
-
-                <h2 class="mb-5">United International University</h2>
-                I enjoyed teaching and mentoring some great students in the following courses:
+                <h2 class="mb-5">Summer 2022(United International University)</h2>
                 <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                     <div class="lead-mb-5">
                         <ul>
@@ -349,10 +347,9 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="flex-shrink-0"><span class="text-primary">July 2022 - July 2023</span>
+                    <div class="flex-shrink-0"><span class="text-primary">July 2022 - Present</span>
                     </div>
                 </div>
-
                 <h2 class="mb-5">Bohubrihi</h2>
                 <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                     <div class="lead-mb-5">
@@ -384,7 +381,7 @@
                         <div class="subheading ms-3">Lecturer, Department of Computer Science and
                             Engineering, United
                             International University</div>
-                        <div class="ms-auto"><span class="text-primary">July 2022 - July 2023</span>
+                        <div class="ms-auto"><span class="text-primary">July 2022 - Present</span>
                         </div>
                     </div>
 
@@ -395,9 +392,10 @@
                             
                         </div> -->
                     <p class="mb-5">
-                        I have worked as a lecturer in the Department of Computer Science. I have worked as both
+                        Currently Working as a lecturer in the Department of Computer Science. I am
+                        Working as both
                         theory and lab instructor by teaching
-                        both theoretical and hands-on classes, organizing competitions and
+                        both theoretical and hands-on classes, organizing and taking tests and
                         supervising student
                         projects.
                     </p>
